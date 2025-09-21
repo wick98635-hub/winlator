@@ -43,4 +43,5 @@ This project has been in constant development since version 1.0, the current app
 - CNC DDraw ([github.com/FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw))
 
 Special thanks to all the developers involved in these projects.<br>
+
 Thank you to all the people who believe in this project.
